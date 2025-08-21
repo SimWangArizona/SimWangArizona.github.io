@@ -28,14 +28,19 @@ Prior to joining UA, I earned my M.S. from
 
 # 📝 Selected Publications 
 
-- **EMNLP 2025 Findings**: *FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference* [**[PDF]**](https://arxiv.org/abs/2508.08256)
-**Dongwei Wang**, Zijie Liu, Song Wang, Yuxin Ren, Jianing Deng, Jingtong Hu, Tianlong Chen, Huanrui Yang. 
+- **EMNLP 2025 Findings**: *FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference* [**[PDF]**](https://arxiv.org/abs/2508.08256)<br>
+**Dongwei Wang**, Zijie Liu, Song Wang, Yuxin Ren, Jianing Deng, Jingtong Hu, Tianlong Chen, Huanrui Yang.
+
+- **ICCV 2025**: *MSQ: Memory-Efficient Bit Sparsification Quantization* [**[PDF]** ](https://arxiv.org/abs/2507.22349)<br>
+Seokho Han, Seoyeon Yoon, Jinhee Kim, **Dongwei Wang**, Kang Eun Jeon, Huanrui Yang, Jong Hwan Ko.
+
+- **CPAL 2025**: *Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization* [**[PDF]** ](https://proceedings.mlr.press/v280/wang25d.html)  [**[CODE]** ](https://github.com/SimWangArizona/NPFT)<br>
+**Dongwei Wang**, Huanrui Yang.
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025 DAC Young Fellow* 
 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.08 - 2025.12 (expected)*, <a href="https://tech-ai.panasonic.com/en/" target="_blank">Panasonic AI</a>, US.
