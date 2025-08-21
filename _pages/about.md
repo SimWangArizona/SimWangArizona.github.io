@@ -10,11 +10,14 @@ redirect_from:
 ## 🎓 _About Me_
 I am currently a second-year Ph.D. student in <a href="https://ece.engineering.arizona.edu/" target="_blank">Electrical and Computer Engineering</a> 
 at the 
-<a href="https://www.arizona.edu/" target="_blank">University of Arizona</a>, 
-where I am advised by 
+<a href="https://www.arizona.edu/" target="_blank">University of Arizona</a>, advised by 
 <a href="https://sites.google.com/view/huanrui-yang" target="_blank">Dr. Huanrui Yang</a>. 
-Before joining UA, I earned my M.S. from 
-<a href="https://www.ucas.edu.cn/" target="_blank">University of Chinese Academy of Sciences</a> in 2024, and my B.E. from <a href="https://www.bjfu.edu.cn/" target="_blank">Beijing Forestry University </a> in 2021.
+Prior to joining UA, I earned my M.S. from 
+<a href="https://www.ucas.edu.cn/" target="_blank">University of Chinese Academy of Sciences</a> in 2024 and my B.E. from <a href="https://www.bjfu.edu.cn/" target="_blank">Beijing Forestry University </a> in 2021.
+
+📝 My research focuses on **Efficient AI**, with a focus on efficient deployment and adaptation of LLMs.
+
+🤝 **Looking for collaborations ！Feel free to reach out via email at any time.**
 
 
 
