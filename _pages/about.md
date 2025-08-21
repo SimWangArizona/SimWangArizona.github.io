@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## 🎓 _About Me_
+# 🎓 _About Me_
 I am currently a second-year Ph.D. student in <a href="https://ece.engineering.arizona.edu/" target="_blank">Electrical and Computer Engineering</a> 
 at the 
 <a href="https://www.arizona.edu/" target="_blank">University of Arizona</a>, advised by 
