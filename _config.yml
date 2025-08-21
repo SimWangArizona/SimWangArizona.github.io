@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dongwei (Sim) Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "LLM is grim? Better Call Sim!"
   location         : "Tucson, Arizona"
   employer         :
   pubmed           : 
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: US/Arizona # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
