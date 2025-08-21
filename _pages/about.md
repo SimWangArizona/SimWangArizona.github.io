@@ -17,18 +17,19 @@ Prior to joining UA, I earned my M.S. from
 
 📝 My research focuses on **Efficient AI**, with a focus on efficient deployment and adaptation of LLMs.
 
-🤝 **Looking for collaborations ！Feel free to reach out via email at any time.**
+🤝 **Looking for collaborations！Feel free to reach out via email at any time.**
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 One first-authored paper is accepted at **EMNLP 2025 Findings**! 
-- *2025.06*: &nbsp;🎉🎉 One paper **MSQ** is accepted at **ICCV 2025**!
+- *2025.08*: &nbsp;🎉🎉 One first-authored paper **FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference** is accepted at **EMNLP 2025 Findings**!
+- *2025.08*: &nbsp;🎉🎉 I will join <a href="https://tech-ai.panasonic.com/en/" target="_blank">Panasonic AI</a> as a remote intern this semester!
+- *2025.06*: &nbsp;🎉🎉 One paper **MSQ: Memory-Efficient Bit Sparsification Quantization** is accepted at **ICCV 2025**! See you in Hawaii!
+- *2025.04*: &nbsp;🎉🎉 I am selected as a **DAC Young Fellow** at the 62nd <a href="https://www.dac.com/" target="_blank">Design Automation Conference</a>. See you in SF!
+- *2025.02*: &nbsp;🎉🎉 One first-authored paper **Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization** is accepted at **CPAL 2025**! See you in Stanford!  
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **EMNLP 2025 Findings**: *FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference* [**[PDF]**](https://arxiv.org/abs/2508.08256)
+**Dongwei Wang**, Zijie Liu, Song Wang, Yuxin Ren, Jianing Deng, Jingtong Hu, Tianlong Chen, Huanrui Yang. 
 
 
 # 🎖 Honors and Awards
