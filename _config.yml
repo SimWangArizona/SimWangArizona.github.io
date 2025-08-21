@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Dongwei (Sim) Wang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/Sim.png"
   bio              : "LLM is grim? Better Call Sim!"
   location         : "Tucson, Arizona"
   employer         :
