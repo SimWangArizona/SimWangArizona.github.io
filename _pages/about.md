@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# 🎓 _About Me_
+# 🎓 About Me
 I am currently a second-year Ph.D. student in <a href="https://ece.engineering.arizona.edu/" target="_blank">Electrical and Computer Engineering</a> 
 at the 
 <a href="https://www.arizona.edu/" target="_blank">University of Arizona</a>, advised by 
@@ -37,6 +37,7 @@ Seokho Han, Seoyeon Yoon, Jinhee Kim, **Dongwei Wang**, Kang Eun Jeon, Huanrui Y
 - **CPAL 2025**: *Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization* [**[PDF]** ](https://proceedings.mlr.press/v280/wang25d.html)  [**[CODE]** ](https://github.com/SimWangArizona/NPFT)<br>
 **Dongwei Wang**, Huanrui Yang.
 
+For full publications: [**[Google Scholar]** ](https://scholar.google.com/citations?user=Mnu9FAQAAAAJ&hl=en)
 
 # 🎖 Honors and Awards
 - *2025 DAC Young Fellow* 
