@@ -26,8 +26,7 @@ Prior to joining UA, I earned my M.S. from
 - *2025.04*: &nbsp;🎉🎉 I am selected as a **DAC Young Fellow** at the 62nd <a href="https://www.dac.com/" target="_blank">Design Automation Conference</a>. See you in SF!
 - *2025.02*: &nbsp;🎉🎉 One first-authored paper **Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization** is accepted at **CPAL 2025**! See you in Stanford!  
 
-# 📝 Selected Publications 
-
+# 📝 Publications 
 - **EMNLP 2025 Findings**: *FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference* [**[PDF]**](https://arxiv.org/abs/2508.08256)<br>
 **Dongwei Wang**, Zijie Liu, Song Wang, Yuxin Ren, Jianing Deng, Jingtong Hu, Tianlong Chen, Huanrui Yang.
 
