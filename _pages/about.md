@@ -20,6 +20,7 @@ Prior to joining UA, I earned my M.S. from
 🤝 **Looking for collaborations！Feel free to reach out via email at any time.**
 
 # 🔥 News
+- *2025.09*：I will give a live talk about our ICCV work in the <a href="https://mp.weixin.qq.com/s/IzHFXITA6PVsGzKodygTww" target="_blank">AI TIME 论道</a> WeChat public channel.
 - *2025.08*: &nbsp;🎉🎉 One first-authored paper **FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference** is accepted at **EMNLP 2025 Findings**!
 - *2025.08*: &nbsp;🎉🎉 I will join <a href="https://tech-ai.panasonic.com/en/" target="_blank">Panasonic AI</a> as a remote intern this semester!
 - *2025.06*: &nbsp;🎉🎉 One paper **MSQ: Memory-Efficient Bit Sparsification Quantization** is accepted at **ICCV 2025**! See you in Hawaii!
