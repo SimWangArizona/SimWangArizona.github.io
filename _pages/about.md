@@ -41,7 +41,8 @@ Seokho Han, Seoyeon Yoon, Jinhee Kim, **Dongwei Wang**, Kang Eun Jeon, Huanrui Y
 For full publications: [**[Google Scholar]** ](https://scholar.google.com/citations?user=Mnu9FAQAAAAJ&hl=en)
 
 # 🎖 Honors and Awards
-- *2025 DAC Young Fellow* 
+- *2025 DAC Young Fellow*
+- *2025 ICCV BP Award*
 
 
 # 💻 Internships
