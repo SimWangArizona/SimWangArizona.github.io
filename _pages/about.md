@@ -17,7 +17,7 @@ Prior to joining UA, I earned my M.S. from
 
 📝 My research focuses on **Efficient AI**, with a focus on efficient deployment and adaptation of LLMs.
 
-🤝 **Looking for collaborations！Feel free to reach out via email at any time.**
+🤝 **Actively looking for Summer 2026 internship opportunities and open to exciting collaborations. Feel free to reach out via email at any time.**
 
 # 🔥 News
 - *2025.09*：I am honored to be awarded the ICCV Broad Participation (BP) Award ！
