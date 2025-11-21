@@ -50,5 +50,5 @@ For full publications: [**[Google Scholar]** ](https://scholar.google.com/citati
   
 # 🌍 _Visits_
 <div id="clustrmaps-container" style="width: 80%; max-width: 500px; height: auto;">
-  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=-1RQdexm-11ErW2PVUx4O2bPPUf35MlhlSiALjenB18'></script>
+ <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=m&d=-1RQdexm-11ErW2PVUx4O2bPPUf35MlhlSiALjenB18'></script>
 </div>
