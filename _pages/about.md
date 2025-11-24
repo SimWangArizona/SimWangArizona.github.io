@@ -20,7 +20,7 @@ Prior to joining UA, I earned my M.S. from
 🤝 **Actively looking for Summer 2026 internship opportunities and open to exciting collaborations. Feel free to reach out via email at any time.**
 
 # 🔥 News
-- *2025.11*：Passed my PHD qualify exam. PHD candidate now!
+- *2025.11*：&nbsp;🎉🎉 Passed my PHD qualify exam. PHD candidate now!
 - *2025.09*：I am honored to be awarded the ICCV Broad Participation (BP) Award ！
 - *2025.09*：I will give a live talk about our ICCV work in the <a href="https://mp.weixin.qq.com/s/IzHFXITA6PVsGzKodygTww" target="_blank">AI TIME 论道</a> WeChat public channel.
 - *2025.08*: &nbsp;🎉🎉 One first-authored paper **FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference** is accepted at **EMNLP 2025 Findings**!
