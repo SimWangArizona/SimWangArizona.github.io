@@ -20,6 +20,7 @@ Prior to joining UA, I earned my M.S. from
 🤝 **Actively looking for Summer 2026 internship opportunities and open to exciting collaborations. Feel free to reach out via email at any time.**
 
 # 🔥 News
+- *2026.02*: Extend research internship at <a href="https://tech-ai.panasonic.com/en/" target="_blank">Panasonic AI</a>, will focus on efficient Agent !
 - *2025.11*：&nbsp;🎉🎉 Passed my PHD qualify exam. PHD candidate now!
 - *2025.09*：I am honored to be awarded the ICCV Broad Participation (BP) Award ！
 - *2025.09*：I will give a live talk about our ICCV work in the <a href="https://mp.weixin.qq.com/s/IzHFXITA6PVsGzKodygTww" target="_blank">AI TIME 论道</a> WeChat public channel.
