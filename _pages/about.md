@@ -50,7 +50,10 @@ For full publications: [**[Google Scholar]** ](https://scholar.google.com/citati
 # 💻 Internships
 - *2025.08 - 2025.12*, <a href="https://tech-ai.panasonic.com/en/" target="_blank">Panasonic AI</a>, US.
 - *2026.02 - 2026.05*, <a href="https://tech-ai.panasonic.com/en/" target="_blank">Panasonic AI</a>, US.
-  
+# Academic Services
+I have served as the reviewer for the following conferences:
+
+CVPR, ICML
 # 🌍 _Visits_
 <div id="clustrmaps-container" style="width: 80%; max-width: 500px; height: auto;">
  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=m&d=-1RQdexm-11ErW2PVUx4O2bPPUf35MlhlSiALjenB18'></script>
