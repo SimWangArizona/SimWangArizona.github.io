@@ -50,6 +50,7 @@ For full publications: [**[Google Scholar]** ](https://scholar.google.com/citati
 # 💻 Internships
 - *2025.08 - 2025.12*, <a href="https://tech-ai.panasonic.com/en/" target="_blank">Panasonic AI</a>, US.
 - *2026.02 - 2026.05*, <a href="https://tech-ai.panasonic.com/en/" target="_blank">Panasonic AI</a>, US.
+
 # 🎓 Academic Services
 I have served as the reviewer for :
 
