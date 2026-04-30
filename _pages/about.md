@@ -20,6 +20,7 @@ Prior to joining UA, I earned my M.S. from
 🤝 **Actively looking for Summer 2026 internship opportunities and open to exciting collaborations. Feel free to reach out via email at any time.**
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One paper **GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs** is accepted at **ICML 2026**!
 - *2026.02*: Extend research internship at <a href="https://tech-ai.panasonic.com/en/" target="_blank">Panasonic AI</a>, will focus on efficient Agent !
 - *2025.11*：&nbsp;🎉🎉 Passed my PHD qualify exam. PHD candidate now!
 - *2025.09*：I am honored to be awarded the ICCV Broad Participation (BP) Award ！
@@ -31,6 +32,9 @@ Prior to joining UA, I earned my M.S. from
 - *2025.02*: &nbsp;🎉🎉 One first-authored paper **Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization** is accepted at **CPAL 2025**! See you in Stanford!  
 
 # 📝 Selected Publications 
+- **ICML 2026**: *GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs*<br>
+**Dongwei Wang**, Zijie Liu, Song Wang, Yuxin Ren, Jianing Deng, Jingtong Hu, Tianlong Chen, Huanrui Yang.
+  
 - **EMNLP 2025 Findings**: *FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference* [**[PDF]**](https://arxiv.org/abs/2508.08256) [**[CODE]** ](https://github.com/SimWangArizona/FIER)<br>
 **Dongwei Wang**, Zijie Liu, Song Wang, Yuxin Ren, Jianing Deng, Jingtong Hu, Tianlong Chen, Huanrui Yang.
 
