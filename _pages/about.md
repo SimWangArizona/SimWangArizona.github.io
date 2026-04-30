@@ -33,7 +33,7 @@ Prior to joining UA, I earned my M.S. from
 
 # 📝 Selected Publications 
 - **ICML 2026**: *GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs*<br>
-**Dongwei Wang**, Zijie Liu, Song Wang, Yuxin Ren, Jianing Deng, Jingtong Hu, Tianlong Chen, Huanrui Yang.
+Jianing Deng, Song Wang, **Dongwei Wang**, Zijie Liu, Tianlong Chen, Huanrui Yang, Jingtong Hu.
   
 - **EMNLP 2025 Findings**: *FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference* [**[PDF]**](https://arxiv.org/abs/2508.08256) [**[CODE]** ](https://github.com/SimWangArizona/FIER)<br>
 **Dongwei Wang**, Zijie Liu, Song Wang, Yuxin Ren, Jianing Deng, Jingtong Hu, Tianlong Chen, Huanrui Yang.
