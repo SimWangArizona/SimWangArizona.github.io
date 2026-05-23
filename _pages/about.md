@@ -17,7 +17,7 @@ Prior to joining UA, I earned my M.S. from
 
 📝 My research focuses on **Efficient AI**, with a focus on efficient deployment and adaptation of LLMs.
 
-🤝 **Actively looking for Summer 2026 internship opportunities and open to exciting collaborations. Feel free to reach out via email at any time.**
+🤝 **Actively looking for 2026 internship opportunities and open to exciting collaborations. Feel free to reach out via email at any time.**
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 One paper **GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs** is accepted at **ICML 2026**!
@@ -32,7 +32,7 @@ Prior to joining UA, I earned my M.S. from
 - *2025.02*: &nbsp;🎉🎉 One first-authored paper **Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization** is accepted at **CPAL 2025**! See you in Stanford!  
 
 # 📝 Selected Publications 
-- **ICML 2026**: *GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs*<br>
+- **ICML 2026**: *GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs* [**[CODE]** ](https://github.com/jndeng/GEMQ)<br>
 Jianing Deng, Song Wang, **Dongwei Wang**, Zijie Liu, Tianlong Chen, Huanrui Yang, Jingtong Hu.
   
 - **EMNLP 2025 Findings**: *FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference* [**[PDF]**](https://arxiv.org/abs/2508.08256) [**[CODE]** ](https://github.com/SimWangArizona/FIER)<br>
@@ -47,6 +47,7 @@ Seokho Han, Seoyeon Yoon, Jinhee Kim, **Dongwei Wang**, Kang Eun Jeon, Huanrui Y
 For full publications: [**[Google Scholar]** ](https://scholar.google.com/citations?user=Mnu9FAQAAAAJ&hl=en)
 
 # 🎖 Honors and Awards
+- *2026 AI Ignite Showcase Runner-Up Award (ECE of UArizona)*
 - *2025 DAC Young Fellow*
 - *2025 ICCV Broaden Participitation Award*
 
@@ -58,7 +59,7 @@ For full publications: [**[Google Scholar]** ](https://scholar.google.com/citati
 # 🎓 Academic Services
 I have served as the reviewer for :
 
-- *CVPR, ICML, TNNLS*
+- *Neurips, CVPR, ICML, TNNLS*
 # 🌍 _Visits_
 <div id="clustrmaps-container" style="width: 80%; max-width: 500px; height: auto;">
  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=m&d=-1RQdexm-11ErW2PVUx4O2bPPUf35MlhlSiALjenB18'></script>
