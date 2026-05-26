@@ -20,6 +20,7 @@ Prior to joining UA, I earned my M.S. from
 🤝 **Actively looking for 2026 internship opportunities and open to exciting collaborations. Feel free to reach out via email at any time.**
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 I am honored to be awarded the **Silver Reviewer Award** by ICML 2026 ！
 - *2026.04*: &nbsp;🎉🎉 One paper **GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs** is accepted at **ICML 2026**!
 - *2026.02*: Extend research internship at <a href="https://tech-ai.panasonic.com/en/" target="_blank">Panasonic AI</a>, will focus on efficient Agent !
 - *2025.11*：&nbsp;🎉🎉 Passed my PHD qualify exam. PHD candidate now!
@@ -32,7 +33,7 @@ Prior to joining UA, I earned my M.S. from
 - *2025.02*: &nbsp;🎉🎉 One first-authored paper **Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization** is accepted at **CPAL 2025**! See you in Stanford!  
 
 # 📝 Selected Publications 
-- **ICML 2026**: *GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs* [**[CODE]** ](https://github.com/jndeng/GEMQ)<br>
+- **ICML 2026**: *GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs* [**[PDF]**](https://arxiv.org/abs/2605.23078) [**[CODE]** ](https://github.com/jndeng/GEMQ)<br>
 Jianing Deng, Song Wang, **Dongwei Wang**, Zijie Liu, Tianlong Chen, Huanrui Yang, Jingtong Hu.
   
 - **EMNLP 2025 Findings**: *FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference* [**[PDF]**](https://arxiv.org/abs/2508.08256) [**[CODE]** ](https://github.com/SimWangArizona/FIER)<br>
@@ -47,6 +48,7 @@ Seokho Han, Seoyeon Yoon, Jinhee Kim, **Dongwei Wang**, Kang Eun Jeon, Huanrui Y
 For full publications: [**[Google Scholar]** ](https://scholar.google.com/citations?user=Mnu9FAQAAAAJ&hl=en)
 
 # 🎖 Honors and Awards
+- *2026 ICML Silver Reviewer Award*
 - *2026 AI Ignite Showcase Runner-Up Award (ECE of UArizona)*
 - *2025 DAC Young Fellow*
 - *2025 ICCV Broaden Participitation Award*
