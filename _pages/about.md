@@ -39,7 +39,7 @@ Jianing Deng, Song Wang, **Dongwei Wang**, Zijie Liu, Tianlong Chen, Huanrui Yan
 - **EMNLP 2025 Findings**: *FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference* [**[PDF]**](https://arxiv.org/abs/2508.08256) [**[CODE]** ](https://github.com/SimWangArizona/FIER)<br>
 **Dongwei Wang**, Zijie Liu, Song Wang, Yuxin Ren, Jianing Deng, Jingtong Hu, Tianlong Chen, Huanrui Yang.
 
-- **ICCV 2025**: *MSQ: Memory-Efficient Bit Sparsification Quantization* [**[PDF]** ](https://arxiv.org/abs/2507.22349)<br>
+- **ICCV 2025**: *MSQ: Memory-Efficient Bit Sparsification Quantization* [**[PDF]** ](https://arxiv.org/abs/2507.22349) [**[CODE]** ](https://github.com/seokho-han/msq)<br>
 Seokho Han, Seoyeon Yoon, Jinhee Kim, **Dongwei Wang**, Kang Eun Jeon, Huanrui Yang, Jong Hwan Ko.
 
 - **CPAL 2025**: *Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization* [**[PDF]** ](https://proceedings.mlr.press/v280/wang25d.html)  [**[CODE]** ](https://github.com/SimWangArizona/NPFT)<br>
