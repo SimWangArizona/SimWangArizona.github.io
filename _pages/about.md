@@ -20,6 +20,7 @@ Prior to joining UA, I earned my M.S. from
 🤝 **Actively looking for 2026 internship opportunities and open to exciting collaborations. Feel free to reach out via email at any time.**
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 One paper **Quantization-Robust Unlearning through the Lens of Retain-Forget Loss Landscapes Interaction** is accepted at **COLM 2026**! We extend the idea of <a href="https://proceedings.mlr.press/v280/wang25d.html" target="_blank">NPFT</a> to ML unlearning !
 - *2026.05*: &nbsp;🎉🎉 I am honored to be awarded the **Silver Reviewer Award** by ICML 2026 ！
 - *2026.04*: &nbsp;🎉🎉 One paper **GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs** is accepted at **ICML 2026**!
 - *2026.02*: Extend research internship at <a href="https://tech-ai.panasonic.com/en/" target="_blank">Panasonic AI</a>, will focus on efficient Agent !
