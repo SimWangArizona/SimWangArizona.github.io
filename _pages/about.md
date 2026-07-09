@@ -15,7 +15,7 @@ at the
 Prior to joining UA, I earned my M.S. from 
 <a href="https://www.ucas.edu.cn/" target="_blank">University of Chinese Academy of Sciences</a> in 2024 and my B.E. from <a href="https://www.bjfu.edu.cn/" target="_blank">Beijing Forestry University </a> in 2021.
 
-📝 My research focuses on **Efficient AI**, with a focus on efficient deployment and adaptation of LLMs.
+📝 My research focuses on **AI Infra**, with a focus on model quantization, KV cache optimization and token pruning.
 
 🤝 **Actively looking for 2027(Spring/Fall) internship opportunities and open to collaborations. Feel free to reach out via email at any time.**
 
@@ -23,7 +23,7 @@ Prior to joining UA, I earned my M.S. from
 - *2026.07*: &nbsp;🎉🎉 One paper **Quantization-Robust Unlearning through the Lens of Retain-Forget Loss Landscapes Interaction** is accepted at **COLM 2026**! We extend the idea of <a href="https://proceedings.mlr.press/v280/wang25d.html" target="_blank">NPFT</a> to ML unlearning !
 - *2026.05*: &nbsp;🎉🎉 I am honored to be awarded the **Silver Reviewer Award** by ICML 2026 ！
 - *2026.04*: &nbsp;🎉🎉 One paper **GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs** is accepted at **ICML 2026**!
-- *2026.02*: Extend research internship at <a href="https://tech-ai.panasonic.com/en/" target="_blank">Panasonic AI</a>, will focus on efficient Agent !
+- *2026.02*: &nbsp;🎉🎉 Extend research internship at <a href="https://tech-ai.panasonic.com/en/" target="_blank">Panasonic AI</a>, will focus on efficient Agent !
 - *2025.11*：&nbsp;🎉🎉 Passed my PHD qualify exam. PHD candidate now!
 - *2025.09*：I am honored to be awarded the ICCV Broad Participation (BP) Award ！
 - *2025.09*：I will give a live talk about our ICCV work in the <a href="https://mp.weixin.qq.com/s/IzHFXITA6PVsGzKodygTww" target="_blank">AI TIME 论道</a> WeChat public channel.
