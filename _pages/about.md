@@ -17,7 +17,7 @@ Prior to joining UA, I earned my M.S. from
 
 📝 My research focuses on **Efficient AI**, with a focus on efficient deployment and adaptation of LLMs.
 
-🤝 **Actively looking for 2026 internship opportunities and open to exciting collaborations. Feel free to reach out via email at any time.**
+🤝 **Actively looking for 2027(Spring/Fall) internship opportunities and open to collaborations. Feel free to reach out via email at any time.**
 
 # 🔥 News
 - *2026.07*: &nbsp;🎉🎉 One paper **Quantization-Robust Unlearning through the Lens of Retain-Forget Loss Landscapes Interaction** is accepted at **COLM 2026**! We extend the idea of <a href="https://proceedings.mlr.press/v280/wang25d.html" target="_blank">NPFT</a> to ML unlearning !
