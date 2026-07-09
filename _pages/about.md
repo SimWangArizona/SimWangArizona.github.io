@@ -33,18 +33,27 @@ Prior to joining UA, I earned my M.S. from
 - *2025.04*: &nbsp;🎉🎉 I am selected as a **DAC Young Fellow** at the 62nd <a href="https://www.dac.com/" target="_blank">Design Automation Conference</a>. See you in SF!
 - *2025.02*: &nbsp;🎉🎉 One first-authored paper **Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization** is accepted at **CPAL 2025**! See you in Stanford!  
 
-# 📝 Selected Publications 
-- **ICML 2026**: *GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs* [**[PDF]**](https://arxiv.org/abs/2605.23078) [**[CODE]** ](https://github.com/jndeng/GEMQ)<br>
-Jianing Deng, Song Wang, **Dongwei Wang**, Zijie Liu, Tianlong Chen, Huanrui Yang, Jingtong Hu.
-  
+# 📝 Selected Publications (*Equal contribution)
+
 - **EMNLP 2025 Findings**: *FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference* [**[PDF]**](https://arxiv.org/abs/2508.08256) [**[CODE]** ](https://github.com/SimWangArizona/FIER)<br>
 **Dongwei Wang**, Zijie Liu, Song Wang, Yuxin Ren, Jianing Deng, Jingtong Hu, Tianlong Chen, Huanrui Yang.
 
+- **CPAL 2025**: *Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization* [**[PDF]** ](https://proceedings.mlr.press/v280/wang25d.html)  [**[CODE]** ](https://github.com/SimWangArizona/NPFT)<br>
+**Dongwei Wang**, Huanrui Yang.
+
+- **Axiv 2026**: *MoBiQuant: Mixture-of-Bits Quantization for Token-Adaptive Any-Precision LLM* [**[PDF]** ](https://arxiv.org/abs/2602.20191) <br>
+**Dongwei Wang***, Jinhee Kim*, Seokho Han*, et al.
+
+- **COLM 2026**: *Quantization-Robust Unlearning through the Lens of Retain-Forget Loss Landscapes Interaction* <br>
+Jialu Wang, Jianing Deng, Shuqing Luo, Yuanzhe LI, **Dongwei Wang**, Jingtong Hu, Huanrui Yang, Song Wang, Tianlong Chen.
+
+- **ICML 2026**: *GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs* [**[PDF]**](https://arxiv.org/abs/2605.23078) [**[CODE]** ](https://github.com/jndeng/GEMQ)<br>
+Jianing Deng, Song Wang, **Dongwei Wang**, Zijie Liu, Tianlong Chen, Huanrui Yang, Jingtong Hu.
+  
 - **ICCV 2025**: *MSQ: Memory-Efficient Bit Sparsification Quantization* [**[PDF]** ](https://arxiv.org/abs/2507.22349) [**[CODE]** ](https://github.com/seokho-han/msq)<br>
 Seokho Han, Seoyeon Yoon, Jinhee Kim, **Dongwei Wang**, Kang Eun Jeon, Huanrui Yang, Jong Hwan Ko.
 
-- **CPAL 2025**: *Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization* [**[PDF]** ](https://proceedings.mlr.press/v280/wang25d.html)  [**[CODE]** ](https://github.com/SimWangArizona/NPFT)<br>
-**Dongwei Wang**, Huanrui Yang.
+
 
 For full publications: [**[Google Scholar]** ](https://scholar.google.com/citations?user=Mnu9FAQAAAAJ&hl=en)
 
