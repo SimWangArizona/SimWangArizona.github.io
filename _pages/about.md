@@ -17,7 +17,7 @@ Prior to joining UA, I earned my M.S. from
 
 📝 My research focuses on **AI Infra**, with a focus on model quantization, KV cache optimization and token pruning.
 
-🤝 **Actively looking for 2027(Spring/Summer) internship opportunities and open to collaborations. Feel free to reach out via email at any time.**
+🤝 **I’m on the job market and open to industry opportunities in AI Infra. Please feel free to reach out!**
 
 # 🔥 News
 - *2026.09*: &nbsp;🎉🎉 One paper **MoBiQuant: Mixture-of-Bits Quantization for Token-Adaptive Any-Precision LLM** is accepted at **Neurips 2026** ! See you in Atlanta !
