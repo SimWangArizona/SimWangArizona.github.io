@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 # 🎓 About Me
-I am currently a second-year Ph.D. in <a href="https://ece.engineering.arizona.edu/" target="_blank">Electrical and Computer Engineering</a> 
+I am currently a third-year Ph.D. in <a href="https://ece.engineering.arizona.edu/" target="_blank">Electrical and Computer Engineering</a> 
 at the 
 <a href="https://www.arizona.edu/" target="_blank">University of Arizona</a>, advised by 
 <a href="https://sites.google.com/view/huanrui-yang" target="_blank">Dr. Huanrui Yang</a>. 
