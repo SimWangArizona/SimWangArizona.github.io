@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dongwei (Sim) Wang"
+title                    : "Dongwei Wang (王东炜)"
 description              : "Ph.D. Student at the University of Arizona"
 repository               : "SimWangArizona/SimWangArizona.github.io"
 google_scholar_stats_use_cdn : true
