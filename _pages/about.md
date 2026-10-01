@@ -48,7 +48,7 @@ Prior to joining UA, I earned my M.S. from
 - **ICML 2026**: *GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs* [**[PDF]**](https://arxiv.org/abs/2605.23078) [**[CODE]** ](https://github.com/jndeng/GEMQ)<br>
 Jianing Deng, Song Wang, **Dongwei Wang**, Zijie Liu, Tianlong Chen, Huanrui Yang, Jingtong Hu.
 
-- **COLM 2026**: *Quantization-Robust Unlearning through the Lens of Retain-Forget Loss Landscapes Interaction* <br>
+- **COLM 2026**: *Quantization-Robust Unlearning through the Lens of Retain-Forget Loss Landscapes Interaction* [**[PDF]**](https://arxiv.org/abs/2609.27355)<br>
 Jialu Wang, Jianing Deng, Shuqing Luo, Yuanzhe LI, **Dongwei Wang**, Jingtong Hu, Huanrui Yang, Song Wang, Tianlong Chen.
   
 - **ICCV 2025**: *MSQ: Memory-Efficient Bit Sparsification Quantization* [**[PDF]** ](https://arxiv.org/abs/2507.22349) [**[CODE]** ](https://github.com/seokho-han/msq)<br>
