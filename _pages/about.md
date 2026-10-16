@@ -36,7 +36,7 @@ Prior to joining UA, I earned my M.S. from
 
 # 📝 Selected Publications (*Equal contribution)
 
-- **Neruips 2026**: *MoBiQuant: Mixture-of-Bits Quantization for Token-Adaptive Any-Precision LLM* [**[PDF]**](https://arxiv.org/abs/2602.20191) [**[CODE]**](https://github.com/SimWangArizona/MoBiQuant) [**[Page]**](https://simwangarizona.github.io/MoBiQuant_Page/) <br>
+- **Neruips 2026**: *MoBiQuant: Mixture-of-Bits Quantization for Token-Adaptive Any-Precision LLM* [**[PDF]**](https://arxiv.org/abs/2602.20191) [**[CODE]**](https://github.com/SimWangArizona/MoBiQuant) [**[PAGE]**](https://simwangarizona.github.io/MoBiQuant_Page/) <br>
 **Dongwei Wang**\*, Jinhee Kim\*, Seokho Han\*, et al.
     
 - **EMNLP 2025 Findings**: *FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference* [**[PDF]**](https://arxiv.org/abs/2508.08256) [**[CODE]** ](https://github.com/SimWangArizona/FIER)<br>
